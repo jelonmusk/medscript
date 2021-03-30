@@ -1,0 +1,76 @@
+Sign in
+
+In Praise of the Delete Key
+
+And why getting rid of things is much harder than creating them
+
+Simon Pitt
+
+Feb 11·4 min read
+
+Sometimes, I feel like I’ve spent my whole career deleting things. I decommission old systems, remove redundant code, and turn off unsupported servers. Anyone who has worked in IT will know that making a new system is hard, but decommissioning the old one is even harder. Getting rid of old things is often called the most difficult challenge in software development.
+
+The problem is that everything is connected. You never simply identify an old system and turn it off. You discover that new, critical systems depend on old, redundant ones. The strategic application you just rolled out will be making an API call to a single server running classic ASP under Dave’s desk. Every time you remove a component, something somewhere breaks. To delete a page on one website is to create a dead link on another.
+
+Even fixing things that patently aren’t working causes issues. I remember once pushing an update that sorted lists in alphabetical order. “You need to roll back the latest update,” someone demanded, “it’s broken our screenscraper.” Someone had built atop our bug. “Every change breaks someone’s workflow,” XKCD jokes in a comic about fixing a bug causing computers to overheat. I laugh at this, but also, I wince. It feels too real.
+
+Perhaps this is a universal law even beyond computers. Getting rid of things is harder than creating them in the first place. Think how much harder it was for Twitter to disable Donald Trump’s Twitter account than for him to set it up. How much more work it is to dispel QAnon conspiracies than to come up with them. All it took was for someone to look at a 5G mast and say, “Hey, maybe that thing caused it all,” and we were off on another roller coaster of delusion. There is Brandolini’s law: The amount of energy needed to refute bullshit is an order of magnitude larger than to produce it. And the old line about lies traveling around the world before the truth even puts its boots on. “I’m just asking questions,” people say when promoting conspiracy theories. They’re never just asking questions.
+
+A few years ago, a colleague of mine ran a project to update all the old Windows 2000 servers our company was still running. There were, he told me, only 20 left. Six months later when I bumped into him again, he looked downcast. Now, he told me, there were 36. This was years after Windows 2000 was out of support. When it was laughably old. When you couldn’t even buy install disks. But still, old installations were spreading faster than he could uninstall them. There is no social distancing for Windows 2000. No vaccine against old operating systems.
+
+It feels trite to compare Windows installations to a worldwide pandemic that has killed two million people and caused so much disruption and pain. The experience is so fundamentally different. But in their causes, there’s a nugget of similarity: Getting rid of things once they’re out there is hard. You can’t put the genie back in the bottle, the toothpaste back into the tube, the coronavirus back into the bat. The ship has sailed, the die is cast, the bridges are burned, the bird has flown. The cat only gets out of the bag. Pandora’s box opens but doesn’t close. The beans get spilled. Eve can’t un-eat the apple. It’s remarkable how many different myths and metaphors pick at this idea. We’ve been trying to undo things since stories began.
+
+But although it seems hopeless, progress progresses. Those Windows 2000 servers were all turned off. Deleting things is hard, but it works. Games of whack-a-mole come to the end with the mole whacked. People will be vaccinated.
+
+Deleting has a cumulative effect. The more you delete, the easier it becomes to delete. With the trees gone, you can see the wood. The connected network of our systems and lives makes it hard to delete one thing without affecting everything else, but this can be a positive too. Once you chop the right trunk, you can clear dozens of branches in one go. Getting rid of old Windows 2000 servers also got rid of old software running on Windows 2000.
+
+Perhaps, if there is a lesson in this, it’s about entropy. Disorder grows in our systems. We can try to buy fewer items, do fewer things, install fewer apps. But still, chaos mounts up. Some might point to the second law of thermodynamics: Certain actions are irreversible. The delete key stands in digital defiance of this. It is our last line of defense.
+
+I’ve come to take pleasure from deleting things. Digital Marie-Kondo-ing networks and computers. These out-of-support, legacy servers and this old commented-out code no longer spark joy. Always, the act of deleting starts with fear and doubt. “What if I need this one day? Perhaps this is connected to something important.” You can do as much testing as possible, but you never know for sure until you hit that key. Every delete keypress is a roller coaster through the stages of grief.
+
+But at the end, when the key is pressed and the files are deleted, the electrons rearranged, I feel a sense of relief and lightness. It’s good for our mental health to clear the old things away. It’s more similar to tidying our rooms than my Marie Kondo quip would suggest. And that fear that seemed so pressing: What if I need this one day? I never need it one day. What I need is the digital, physical, and mental space cleared for new things. New clutter that one day, too, will need to be deleted as well. Everything, it seems, has a half-life, which is what renders the delete key so important.
+
+Simon Pitt
+
+Media techie, developer, product manager, software person and web-stuff doer. Head of Corporate Digital at BBC, but views my own. More at pittster.co.uk
+
+437 
+
+3 
+
+437 
+
+437 
+
+3 
+
+More from Debugger
+
+Debugger is a publication from Medium about consumer technology and gadgets. It is run by the OneZero editorial team, which also publishes stories about major forces in technology through its namesake publication and stories about science on Future Human.
+
+More From Medium
+
+You Should Be Using an Email Signature That Protects Your Time
+
+I Asked My Wi-Fi Fairy Godmother for Tech Help and She Wound up Fixing All the Things
+
+Multi-Factor Authentication Is Inaccessible
+
+How to Make a Cloud-Free Security Camera for $3
+
+I Bought a Device That Tracks My Dog’s Every Move
+
+SXSW Online Did Not Suck (Like Most Zoom Conferences Do)
+
+Why ‘Stories’ Became a Feature in Every App on Earth
+
+My Honda Minivan Drives Itself Just as Well as a Tesla on Autopilot
+
+About
+
+Help
+
+Legal
+
+Get the Medium app
+
